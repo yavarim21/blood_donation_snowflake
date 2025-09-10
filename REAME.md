@@ -5,8 +5,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
 ![Snowflake](https://img.shields.io/badge/Powered%20by-Snowflake-29B5E8?logo=snowflake)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green)  
-![Status](https://img.shields.io/badge/Project-Active-success)  
 
 This project demonstrates how to build a **Snowflake + Python analytics pipeline** using synthetic donor and transfusion datasets. It covers data ingestion, SQL analytics, and Python visualization.  
 
